@@ -1,7 +1,7 @@
 # macOS system files
-.DS_Store
 .AppleDouble
 .LSOverride
+.DS_Store
 
 # Icon files
 Icon?
@@ -28,3 +28,11 @@ Icon?
 Network Trash Folder
 Temporary Items
 .apdisk
+# Python / app
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+orders.json
+venv/
